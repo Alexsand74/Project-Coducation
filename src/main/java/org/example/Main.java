@@ -5,10 +5,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("The code is in the !");
-        System.out.println("Код находится в ветке !");
-        System.out.println("Код находится в ветке !");
-        System.out.println("Код находится в ветке !");
-        System.out.println("Еще раз код находится в ветке !");
-        System.out.println("Еще раз код находится в ветке !");
+        System.out.println("РљРѕРґ РЅРµ РЅР°С…РѕРґРёС‚СЃСЏ Р·РґРµСЃСЊ !!!");
+
     }
 }
