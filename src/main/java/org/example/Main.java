@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Код находится в ветке !");
         System.out.println("Код находится в ветке !");
         System.out.println("Еще раз код находится в ветке !");
+        System.out.println("Еще раз код находится в ветке !");
     }
 }
